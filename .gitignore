@@ -135,3 +135,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+# dev environment db configuration
+/src/main/resources/config/application-dev.yml
