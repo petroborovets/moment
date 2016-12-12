@@ -1,0 +1,25 @@
+{
+    "momentApp": {
+        "photo" : {
+            "home": {
+                "title": "Photos",
+                "createLabel": "Genera un nuovo Photo",
+                "createOrEditLabel": "Genera o modifica un Photo",
+                "search": "Cerca Photo"
+            },
+            "created": "&Egrave; stato generato un nuovo Photo con identificatore { param }}",
+            "updated": "&Egrave; stato aggiornato Photo identificato da {{ param }}",
+            "deleted": "&Egrave; stato eliminato Photo con identificatore {{ param }}",
+            "delete": {
+                "question": "Sei sicuro di volere eliminare Photo {{ id }}?"
+            },
+            "detail": {
+                "title": "Photo"
+            },
+            "name": "Name",
+            "description": "Description",
+            "createdDate": "Created Date",
+            "user": "User"
+        }
+    }
+}
